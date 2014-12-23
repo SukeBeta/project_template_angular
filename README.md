@@ -1,2 +1,5 @@
-project_template_angular
+Angular blank project Template
 ========================
+### Include Lib:
+- angular
+- google material
